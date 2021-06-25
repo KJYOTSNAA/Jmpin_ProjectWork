@@ -1,7 +1,11 @@
 # Jmpin_ProjectWork
 DevOps project by LnB
-## Docker 
+## Docker
 
+### Check Docker version
+```
+docker  version
+```
 ### Create image from docker file
 ```
 docker build -t codepython:v1 .
