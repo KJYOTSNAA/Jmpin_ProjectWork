@@ -16,12 +16,8 @@ Perss 0 to exit the program :-
 
 
 while True: 
-    print(user_input)
-    # to accept input from user 
+    print(user_input) 
     user_choice=input()
-    # printing user input 
-    #print("user has entered ",user_choice)
-
 
     if  user_choice ==  '1' :
       print(client.containers.run("alpine", ["echo", "hello", "world"]))
