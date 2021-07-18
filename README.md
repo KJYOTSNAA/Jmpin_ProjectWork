@@ -1,7 +1,7 @@
 # Jmpin_ProjectWork
 DevOps project by LnB
 
-## afer making dockerfile
+## Afer making dockerfile
 
 ### building image from dockerfile
 ```
